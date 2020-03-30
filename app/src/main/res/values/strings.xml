@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FreshPics</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_list">Oh! Looks like pictures are unavailable yet</string>
+</resources>

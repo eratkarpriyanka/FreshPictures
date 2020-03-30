@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="recycler_top_margin">5dp</dimen>
+    <dimen name="card_margin">1dp</dimen>
+    <dimen name="card_user_radius">1dp</dimen>
+    <dimen name="picture_width">180dp</dimen>
+    <dimen name="picture_height">180dp</dimen>
+    <dimen name="title_margin">3dp</dimen>
+    <dimen name="title_size">17sp</dimen>
+</resources>
