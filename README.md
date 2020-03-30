@@ -10,7 +10,7 @@ Walk through the FreshPics app
 
 **Walkthrough the app :** 
 
-<img src='https://imgur.com/2WAdoRM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/2WAdoRM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 * GIF created with [LiceCap](http://www.cockos.com/licecap/).<br/>
 
